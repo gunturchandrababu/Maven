@@ -10,7 +10,7 @@ public class TestA {
   
   {
 	System.out.println("Welcome");  
-	  
+	System.out.println("Welcome");    
   }
   @BeforeTest
   public void beforeTest() {
